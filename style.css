@@ -1,0 +1,38 @@
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+gap: 5px;
+margin: 0 auto;
+padding-bottom: 30px;
+justify-content: center;
+width: 700px;
+
+}
+.card{
+    
+border: 4px solid black;
+    background-color: rgb(51, 6, 6);
+    padding: 10px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: space-evenly;
+     height: 200;
+     width: 100%;
+     margin: 0;
+     
+}
+.io{
+    height: 350px;
+    width: 84%;
+    object-fit: contain;
+    padding: 20px;
+    border: 10px;
+    margin: 10px;
+}
+
+
+
+
+

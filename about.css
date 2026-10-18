@@ -1,0 +1,45 @@
+.about{
+  
+  display: block;
+  justify-content: space-around;
+  color: rgb(233, 225, 225);
+  text-align: left;
+width: 600%;
+height: 50px;
+margin-top: 100px;
+margin-bottom: 20px;
+padding: 20px;
+position: absolute;
+top: 150px;
+left: 20px;
+}
+
+.line{
+    width: 120px;
+    height: 20px;
+    margin-bottom: 15px;
+    color: indigo;
+    margin-left: 50px;
+    border-radius: 25px;
+    padding: 5px;
+    
+}
+
+.pic{
+  height: 550px;
+  width: 35%;
+right: 80px;
+margin-left: auto;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  
+
+  
+}
+
+
